@@ -6,5 +6,6 @@ public class Main {
         String name = "Jandy";
 	    System.out.format("Hello, my name is %s%n", name);
 	    System.out.format("Hello %s, my name is Chris.", name);
+	    System.out.format("Hello %s, my name is Ashley.", name);
     }
 }
